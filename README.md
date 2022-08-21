@@ -1,1 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlraul&show_icons=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlraul&show_icons=true&theme=outrun&count_private=true)
+
+![Raul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlraul&theme=outrun&layout=compact)
